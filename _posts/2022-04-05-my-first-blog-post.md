@@ -1,4 +1,9 @@
-#This is first trial usage of GitHu Pages
+---
+title: "First Blog"
+date: 2022-04-05
+---
+
+#This is first trial usage of GitHub Pages
 
 - [ ] We will be trying out various diffrenet things 
 - [ ] Lists
